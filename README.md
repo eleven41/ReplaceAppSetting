@@ -3,7 +3,7 @@ PowerShell script to replace an appSetting value.
 
 ## Main Script File
 
-[ReplaceAppSetting.ps1](blob/master/ReplaceAppSetting/ReplaceAppSetting.ps1)
+[ReplaceAppSetting.ps1](ReplaceAppSetting/ReplaceAppSetting.ps1)
 
 ## Executing the Script
 
